@@ -20,8 +20,13 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 
 | Label | Kiểu | Số điểm | Tên điểm đúng bảng của lab? | Đúng thứ tự? | Số cạnh |
 |---|---|---:|---|---|---:|
-| `person` | Skeleton | 17 | | | |
-| `face` | Skeleton | 13 | | | |
+| `person` | Skeleton | 17 | "nose", "left_eye", "right_eye", "left_ear", "right_ear",
+      "left_shoulder", "right_shoulder", "left_elbow", "right_elbow",
+      "left_wrist", "right_wrist", "left_hip", "right_hip",
+      "left_knee", "right_knee", "left_ankle", "right_ankle" | có | 19 |
+| `face` | Skeleton | 13 | "left_eye_outer", "left_eye_inner", "left_eye_upper", "left_eye_lower",
+      "right_eye_outer", "right_eye_inner", "right_eye_upper", "right_eye_lower",
+      "nose_tip", "mouth_left", "mouth_right", "lip_upper", "lip_lower" | có | 13 |
 
 Mẫu `person` dựng theo người quay mặt về camera (các điểm `left_*` nằm bên phải khung mẫu)? Có
 
