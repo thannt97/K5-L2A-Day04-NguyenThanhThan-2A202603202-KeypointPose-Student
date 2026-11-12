@@ -9,7 +9,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Họ tên: Nguyễn Thanh Thản
 - MSSV:2A202603202
 - Email:npc12a1@gmail.com
-- Link repository:https://github.com/thannt97/K5-L2A-Day03-NguyenThanhThan-2A202603202-KeypointPose-Student
+- Link repository:https://github.com/thannt97/K5-L2A-Day04-NguyenThanhThan-2A202603202-KeypointPose-Student
 - Phiên bản CVAT (Help → About): 2.82.1
 - Máy: hệ điều hành windown11 · RAM 32 GB · chạy CVAT chế độ đầy đủ
 - Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
